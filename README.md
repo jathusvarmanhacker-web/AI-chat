@@ -1,19 +1,77 @@
-# 🎈 Blank app template
+AI-powered smart agriculture assistant app for farmers.
 
-A simple Streamlit app template for you to modify!
+AgroShield AI helps farmers:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+detect crop diseases
+receive weather alerts
+predict harvest dates
+ask AI farming questions
+monitor crop growth
+improve farming decisions
 
-### How to run it on your own machine
+Designed for innovation competitions and real-world agriculture support.
 
-1. Install the requirements
+🚀 Features
+✅ AI Crop Disease Scanner
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+Upload crop images and detect:
 
-2. Run the app
+diseases
+nutrient deficiencies
+crop health problems
+✅ Smart Weather Dashboard
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+Displays:
+
+temperature
+humidity
+rainfall probability
+wind speed
+weather warnings
+✅ AI Farming Assistant
+
+Farmers can ask:
+
+fertilizer advice
+watering guidance
+harvest timing
+pest control methods
+
+Supports:
+
+English
+Tamil
+Sinhala
+✅ Harvest Prediction
+
+Predicts:
+
+harvest date
+growth stage
+risk level
+estimated yield
+✅ Market Information
+
+Shows:
+
+crop prices
+market trends
+best selling times
+✅ Smart Alerts
+
+Notifications for:
+
+heavy rain
+drought
+crop disease risk
+farming recommendations
+🛠 Technology Stack
+Frontend
+React
+Tailwind CSS
+Backend
+Firebase
+AI APIs
+Gemini API
+Database
+Firebase Firestore
