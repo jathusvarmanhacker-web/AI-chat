@@ -1,4 +1,4 @@
-npm install
+
 npm install react
 npm install tailwindcss
 npm install firebase
